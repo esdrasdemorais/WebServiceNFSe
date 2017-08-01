@@ -1,0 +1,3 @@
+Main-Class: AssinarXMLsCertfificadoA1
+Name: AssinarXMLsCertfificadoA1.class
+Java-Bean: True
